@@ -39,11 +39,11 @@ public class Employee {
         return idCounter;
     }
 
-    public void setDepartment(int department) {
+    public void setDepartment (int department) {
         this.department = department;
     }
 
-    public void setSalary(int salary) {
+    public void setSalary (int salary) {
         this.salary = salary;
     }
 

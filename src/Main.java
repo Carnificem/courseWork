@@ -80,7 +80,7 @@ public class Main {
         employee[8] = new Employee("Есенин Сергей Александрович", 5, 99_999);
         employee[9] = new Employee("Салтыков-Щедрин Михаил Евграфович", 5, 111_111);
 
-        System.out.println(" Получить список всех сотрудников со всеми имеющимися по ним данными :" + "\n ");
+        System.out.println("Получить список всех сотрудников со всеми имеющимися по ним данными :" + "\n ");
         printEmployee(employee);
         System.out.println("Распечатать Ф.И.О всех сотрудников: " + "\n ");
         printListEmployee(employee);
