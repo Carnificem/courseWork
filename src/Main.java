@@ -82,7 +82,7 @@ public class Main {
 
         System.out.println(" Получить список всех сотрудников со всеми имеющимися по ним данными :" + "\n ");
         printEmployee(employee);
-        System.out.println("Распечатать Ф.И.О всех сотрудников:" + "\n ");
+        System.out.println("Распечатать Ф.И.О всех сотрудников: " + "\n ");
         printListEmployee(employee);
         System.out.println(" " + "\n Посчитать сумму затрат на ЗП в месяц:");
         totalSalary(employee);
