@@ -49,7 +49,7 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "__________________"+"\nФ.И.О. сотрудника: " + employeeName +
+        return "__________________"+"\nФ.И.О. сотрудника: " + employeeName+"." +
                 "\nотдел: " + department +
                 "\nзаработаная плата - " + salary +
                 "\nid=" + id + "; \n__________________";
