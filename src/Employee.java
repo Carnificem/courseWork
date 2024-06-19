@@ -7,9 +7,6 @@ public class Employee {
     private static int idCounter = 0;
     private final int id;
 
-    // public Employee() {
-    //  this.id = ++idCounter;
-    // }
 
     public Employee(String employeeName, int department, int salary) {
         this.employeeName = employeeName;

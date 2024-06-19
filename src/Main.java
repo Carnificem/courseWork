@@ -38,6 +38,7 @@ public class Main {
         averageSalary(employee);
     }
 
+
     public static Employee employee[] = new Employee[10];
 
     public static void printEmployee(Employee[] employee) {
